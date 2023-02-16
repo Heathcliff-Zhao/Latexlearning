@@ -1,0 +1,20 @@
+\contentsline {section}{\numberline {1}Preparation}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Hello, Beijing}{2}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Hello Dongcheng District}{2}{subsubsection.1.1.1}%
+\contentsline {paragraph}{Tian'anmen Square}{2}{paragraph*.2}%
+\contentsline {subparagraph}{Chairman Mao}{2}{subparagraph*.3}%
+\contentsline {subsection}{\numberline {1.2}Hello 江苏}{2}{subsection.1.2}%
+\contentsline {paragraph}{南京大学}{2}{paragraph*.4}%
+\contentsline {section}{\numberline {2}Formula}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}difference between some method to create Formula}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}make several continuous character to be a superscript or a subscript}{3}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}square-root and fraction}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}other operators}{3}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}long-formula}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}piecewise-function}{4}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Graphics and Tables}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Graphic}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Include a graph}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Draw a graph}{6}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Table}{7}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Citation}{8}{section.4}%
